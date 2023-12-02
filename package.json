@@ -1,0 +1,27 @@
+{
+  "name": "cmdshell",
+  "version": "1.0.0",
+  "description": "executes shell commands",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/knexxel/cmdshell.git"
+  },
+  "keywords": [
+    "shell",
+    "commands",
+    "terminal"
+  ],
+  "author": "knexxel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/knexxel/cmdshell/issues"
+  },
+  "homepage": "https://github.com/knexxel/cmdshell#readme",
+  "dependencies": {
+    "ansi-colors": "^4.1.3"
+  }
+}
